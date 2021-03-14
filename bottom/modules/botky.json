@@ -1,0 +1,19 @@
+{
+  "botky": [
+    {
+      "nazev": "Rythm1",
+      "popisek": "OwO",
+      "img": "images/rythm1.png"
+    },
+    {
+      "nazev": "Rythm2",
+      "popisek": "UwU",
+      "img": "images/rythm2.png"
+    },
+    {
+      "nazev": "Rythm3",
+      "popisek": "OmO",
+      "img": "images/rythm3.png"
+    }
+  ]
+}
